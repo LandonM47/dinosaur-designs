@@ -1,4 +1,14 @@
 html {
-  color: #f2f1ed;
+  background-color: #f2f1ed;
   font-family: Georgia,serif;
+}
+img {
+  width: 100%;
+}
+h1 {
+  color: #5d8432;
+}
+figcaption {
+  font-style: italic;
+  text-align: center;
 }
