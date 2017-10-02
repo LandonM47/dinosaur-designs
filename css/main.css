@@ -7,15 +7,23 @@ img {
 }
 h1 {
   color: #5d8432;
+  font-family: 'Patua One', cursive;
 }
 figcaption {
   font-style: italic;
   text-align: center;
 }
+cap1 {
+  font-style: italic;
+  text-align: center;
+  font-size: 2em
+}
 a,
 a:link {
   color: #793284;
+  font-family: 'Patua One', cursive;
 }
 a:hover {
-color: #b42885;
+  color: #b42885;
+  font-family: 'Patua One', cursive;
 }
